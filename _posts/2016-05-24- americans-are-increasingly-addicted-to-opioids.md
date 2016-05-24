@@ -20,11 +20,16 @@ Remarks:
 
 
 
-| :------------ | -----:|
-| [<<previous][link1]           |     [next>>][link2] |
+
+[<<previous][link1]              [next>>][link2] 
 
 
-                                                                                       
+<div><div style="float: left;">这是一条新闻</div><div style="float: right">2013-05-1</div><div style="clear: both;"></div></div>
+
+
+.title { /* 你想要的样式 */ }
+.title__date { float:right; _position:relative; }
+
 
 
 
