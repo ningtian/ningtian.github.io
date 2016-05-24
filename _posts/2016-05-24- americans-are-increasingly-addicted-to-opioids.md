@@ -3,7 +3,7 @@ layout: post
 title: "Americans are increasingly addicted to opioids."
 ---
 
-[source from <em>the Economist</em>][link]
+[source from <em>The Economist</em>][link]
 
 
 `The painkillers` are over-prescribed in America, but `a nightmare to obtain in much of the world`.
