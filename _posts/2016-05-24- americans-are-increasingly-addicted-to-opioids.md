@@ -9,9 +9,9 @@ But in 1980s a series of papers by American researchers `claimed` that opioids `
 
 
 *******************************************
-#####Remarks:
+Remarks:
 
-* Lead to somebody doing something
+* lead to somebody doing something
 
-* With abandon
+* with abandon
 
