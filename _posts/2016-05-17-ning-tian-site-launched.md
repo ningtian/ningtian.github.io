@@ -3,6 +3,8 @@ layout: post
 title: "Why apple music is so bad when the iphone is so good"
 ---
 
+[source from <em>The New Yorker</em>][link]
+
 On April 28, 2003, Apple launched the iTunes Music Store, `saving` the music industry `from` the scourge of piracy while creating a `large and steady source` of revenue for Apple. Thirteen years later,  however, what started as a simple and intuitive way to find music has become a cluttered festoonery of features. As Apple begins competing with focused streaming services like Spotify, the company's strategy of tacking new services, like Apple Music, which became available last year, onto already bloated software has made the `experience` of using the application more and more `unpleasant`. Just last week, Apple `acknowledged` users' complaints about a bug that was deleting music files on personal computers, and promised a quick software update. Many Apple Music customers took to the Internet to warn their fellow-users to `back their stuff up`. So when Apple said that it would release a new streamlined version of Apple Music at its developers' conference next month, it seemed as though the company was finally reckoning with the confusion in its music services.
 
 Apple may, in fact, clear up some of the mess and present a simpler solution, but its struggles in the delivery of music are merely `a symptom of a deeper problem`: how to provide Internet services. 
@@ -24,3 +26,8 @@ Remarks:
 * unpleasant experience
 
 
+<div style="position: relative;"><div></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey">next>></a></div></div>
+
+
+
+[link]:http://www.newyorker.com/business/currency/why-apple-music-is-so-bad-when-the-iphone-is-so-good
