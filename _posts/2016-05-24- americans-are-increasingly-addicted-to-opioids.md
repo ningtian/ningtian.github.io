@@ -5,7 +5,6 @@ title: "Americans are increasingly addicted to opioids."
 
 [source from <em>the Economist</em>][link]
 
-*************************************************
 
 `The painkillers` are over-prescribed in America, but `a nightmare to obtain in much of the world`.
 
@@ -20,12 +19,12 @@ Remarks:
 * with abandon
 
 
-<[previous][link1]>                                                                                               <[next][link2]>
+[<<previous][link1]                                                                                               [next>>][link2]
 
 
 
 [link]:http://www.economist.com/news/international/21699363-painkillers-are-over-prescribed-america-nightmare-obtain-much
 [link1]:http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey
-[link2]:
+[link2]:http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey
 
 
