@@ -20,13 +20,11 @@ Remarks:
 
 
 
-
-[<<previous][link1]              [next>>][link2] 
-
-<p class="title">title name<span class="title__date">date</span></p>
-
-
-<div><div style="float: left;">这是一条新闻</div><div style="float: right">2013-05-1</div><div style="clear: both;"></div></div>
+<div>
+<div style="float: left;">[<<previous][link1] </div>
+<div style="float: right">[next>>][link2] </div>
+<div style="clear: both;"></div>
+</div>
 
 
 
