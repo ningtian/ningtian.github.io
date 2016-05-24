@@ -15,4 +15,4 @@ Apple is phenomenally successful, but like Microsoft, which stumbled when Google
 
 It's not impossible for companies to adapt to new circumstances. Netflix made a bumpy transition from physical goods to digital services, and has now become a `preeminent` entertainment channel, one that mines user data successfully. Whatever Apple does, it is time for Cupertino to make some quick and bold moves.
 
-http://www.newyorker.com/business/currency/why-apple-music-is-so-bad-when-the-iphone-is-so-good?intcid=mod-latest
+
