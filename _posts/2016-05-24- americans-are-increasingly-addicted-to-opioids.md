@@ -19,7 +19,12 @@ Remarks:
 * with abandon
 
 
-[<<previous][link1]                                                                                               [next>>][link2]
+
+| :------------ | -----:|
+| [<<previous][link1]           |     [next>>][link2] |
+
+
+                                                                                       
 
 
 
