@@ -41,3 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+<p class="title">title name<span class="title__date">date</span></p>
