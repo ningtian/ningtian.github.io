@@ -9,13 +9,9 @@ But in 1980s a series of papers by American researchers `claimed` that opioids `
 
 
 *******************************************
-Remarks:
+#####Remarks:
 
-Lead to somebody doing something
+* Lead to somebody doing something
 
-With abandon
+* With abandon
 
-
-
-[source][link] 
-[link]: http://www.economist.com/news/international/21699363-painkillers-are-over-prescribed-america-nightmare-obtain-much
