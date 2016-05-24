@@ -22,7 +22,7 @@ Remarks:
 
 
 
-<div><div style="float: left;">[previous][link1]</div><div style="float: right">[next][link2]</div><div style="clear: both;"></div></div>
+<div><div style="float: left;">[[previous][link1]</div><div style="float: right">[[next][link2]</div><div style="clear: both;"></div></div>
 
 
 
