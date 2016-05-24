@@ -3,7 +3,7 @@ layout: post
 title: "Why apple music is so bad when the iphone is so good"
 ---
 
-On April 28, 2003, Apple launched the iTunes Music Store, `saving` the music industry `from` the scourge of piracy while creating a `large and steady source` of revenue for Apple. Thirteen years later,  however, what started as a simple and intuitive way to find music has become a cluttered festoonery of features. As Apple begins competing with focused streaming services like Spotify, the company's strategy of tacking new services, like Apple Music, which became available last year, onto already bloated software has made the experience of using the application more and more `unpleasant`. Just last week, Apple `acknowledged` users' complaints about a bug that was deleting music files on personal computers, and promised a quick software update. Many Apple Music customers took to the Internet to warn their fellow-users to `back their stuff up`. So when Apple said that it would release a new streamlined version of Apple Music at its developers' conference next month, it seemed as though the company was finally reckoning with the confusion in its music services.
+On April 28, 2003, Apple launched the iTunes Music Store, `saving` the music industry `from` the scourge of piracy while creating a `large and steady source` of revenue for Apple. Thirteen years later,  however, what started as a simple and intuitive way to find music has become a cluttered festoonery of features. As Apple begins competing with focused streaming services like Spotify, the company's strategy of tacking new services, like Apple Music, which became available last year, onto already bloated software has made the `experience` of using the application more and more `unpleasant`. Just last week, Apple `acknowledged` users' complaints about a bug that was deleting music files on personal computers, and promised a quick software update. Many Apple Music customers took to the Internet to warn their fellow-users to `back their stuff up`. So when Apple said that it would release a new streamlined version of Apple Music at its developers' conference next month, it seemed as though the company was finally reckoning with the confusion in its music services.
 
 Apple may, in fact, clear up some of the mess and present a simpler solution, but its struggles in the delivery of music are merely `a symptom of a deeper problem`: how to provide Internet services. 
 
@@ -14,5 +14,13 @@ Apple, by comparison, designs and builds products with a very distinct vision of
 Apple is phenomenally successful, but like Microsoft, which stumbled when Google's Internet-only, advertising-based business took off, it may find it difficult to adapt success to new terrain. 
 
 It's not impossible for companies to adapt to new circumstances. Netflix made a bumpy transition from physical goods to digital services, and has now become a `preeminent` entertainment channel, one that mines user data successfully. Whatever Apple does, it is time for Cupertino to make some quick and bold moves.
+
+************************************
+
+Remarks:
+
+* when it comes to
+* it doesn't serve to
+* unpleasant experience
 
 
