@@ -20,18 +20,13 @@ Remarks:
 
 
 
+*******************************************
 
-
-<div><div style="float: left;">[previous][link1]</div><div style="float: right">[next][link2]</div><div style="clear: both;"></div></div>
-
-<div style="position: relative;"><div><a href="http://www.nwpu.edu.cn/"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;">2013-05-1[next][link2]</div></div>
-
-
+<div style="position: relative;"><div><a href="http://www.nwpu.edu.cn/"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://www.nwpu.edu.cn/">next>></a></div></div>
 
 
 
 [link]:http://www.economist.com/news/international/21699363-painkillers-are-over-prescribed-america-nightmare-obtain-much
-[link1]:http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey
-[link2]:http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey
+
 
 
