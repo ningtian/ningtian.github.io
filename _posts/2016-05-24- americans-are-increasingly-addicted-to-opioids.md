@@ -24,7 +24,7 @@ Remarks:
 
 <div><div style="float: left;">[previous][link1]</div><div style="float: right">[next][link2]</div><div style="clear: both;"></div></div>
 
-<div style="position: relative;"><div>这是一条新闻</div><div style="position: absolute; right: 0px; top: 0px;">2013-05-1</div></div>
+<div style="position: relative;"><div>这是一条新闻[previous][link1]</div><div style="position: absolute; right: 0px; top: 0px;">2013-05-1[next][link2]</div></div>
 
 
 
