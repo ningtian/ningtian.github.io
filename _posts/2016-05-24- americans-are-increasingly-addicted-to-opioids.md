@@ -20,9 +20,9 @@ Remarks:
 
 
 
-*******************************************
 
-<div style="position: relative;"><div><a href="http://www.nwpu.edu.cn/"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://www.nwpu.edu.cn/">next>></a></div></div>
+
+<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/">next>></a></div></div>
 
 
 
