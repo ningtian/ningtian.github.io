@@ -24,7 +24,7 @@ Remarks:
 
 <div><div style="float: left;">[previous][link1]</div><div style="float: right">[next][link2]</div><div style="clear: both;"></div></div>
 
-<div style="position: relative;"><div>这是一条新闻<a href="http://www.nwpu.edu.cn/">Northwestern Polytechnical University</a></div><div style="position: absolute; right: 0px; top: 0px;">2013-05-1[next][link2]</div></div>
+<div style="position: relative;"><div><a href="http://www.nwpu.edu.cn/"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;">2013-05-1[next][link2]</div></div>
 
 
 
