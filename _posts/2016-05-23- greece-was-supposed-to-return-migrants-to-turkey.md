@@ -16,7 +16,7 @@ Remarks:
 
 ***********************************************
 
-<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/17/why-apple-music-is-so-bad-when-the-iphone-is-so-good"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/blogs/2016/05/24/americans-are-increasingly-addicted-to-opioids">next>></a></div></div>
+<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/18/why-apple-music-is-so-bad-when-the-iphone-is-so-good"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/blogs/2016/05/24/americans-are-increasingly-addicted-to-opioids">next>></a></div></div>
 
 
 
