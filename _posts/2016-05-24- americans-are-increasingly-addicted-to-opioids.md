@@ -22,11 +22,11 @@ Remarks:
 ********************************************
 
 
-<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/">next>></a></div></div>
+<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/17/ning-tian-site-launched"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/blogs/2016/05/24/americans-are-increasingly-addicted-to-opioids">next>></a></div></div>
 
 
 
-[link]:http://www.economist.com/news/international/21699363-painkillers-are-over-prescribed-america-nightmare-obtain-much
+[link]:http://www.economist.com/news/europe/21699320-migrants-have-stopped-arriving-they-are-not-being-sent-back-either-greece-was-supposed
 
 
 
