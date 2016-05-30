@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why apple music is so bad when the iphone is so good"
+title: "Why apple music is so bad when the iphone is so good."
 ---
 
 [source from <em>The New Yorker</em>][link]
