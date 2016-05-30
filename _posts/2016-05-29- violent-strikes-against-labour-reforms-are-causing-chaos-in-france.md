@@ -24,6 +24,6 @@ Remarks:
 
 
 
-http://www.economist.com/news/europe/21699703-long-queues-petrol-stations-are-only-most-visible-sign-battle-over-future
+[link]:http://www.economist.com/news/europe/21699703-long-queues-petrol-stations-are-only-most-visible-sign-battle-over-future
 
 
