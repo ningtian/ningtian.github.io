@@ -1,6 +1,7 @@
+
 ---
 layout: post
-title: "America issues a travel alert covering Europe”
+title: "America issues a travel alert covering Europe"
 ---
 
 [source from <em>The Economist</em>][link]
