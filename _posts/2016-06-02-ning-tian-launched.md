@@ -10,6 +10,8 @@ Yesterday, the United States issued a travel alert aimed at `those` thinking of 
 
 ********************************************
 
+Remarks:
+
 * deploy police, soldiers and security guards 
 
 ****************************************************
