@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Violent strikes against labor reforms are causing chaos in France."
+title: "Violent strikes are causing chaos in France."
 ---
 
 [source from <em>The Economist</em>][link]
