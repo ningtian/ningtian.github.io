@@ -16,7 +16,7 @@ But Egypt dismissed each suggestion as a premature. In December its investigator
 ********************************************
 
 
-<div style="position: relative;"><div><a href="http://jayhawk.ningtian.info/blogs/2016/05/23/greece-was-supposed-to-return-migrants-to-turkey"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://jayhawk.ningtian.info/blogs/2016/05/24/americans-are-increasingly-addicted-to-opioids">next>></a></div></div>
+<div style="position: relative;"><div><a href="http://ningtian.github.io/blogs/2016/05/29/ning-tian-launched"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://ningtian.github.io/blogs/2016/05/31/ning-tian-launched">next>></a></div></div>
 
 
 
