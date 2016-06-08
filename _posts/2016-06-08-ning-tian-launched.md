@@ -14,8 +14,9 @@ This week Xi Jinping, China’s president, fell into the opposite trap, of overc
 
 ********************************************
 Remarks: 
-* obsession with
-* hold back
+
+* obsession with 
+* hold back 
 * swing from … to …
 * not … rather… 
  
