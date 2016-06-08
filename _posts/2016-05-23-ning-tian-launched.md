@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Greece was supposed to return migrants to Turkey, but has barely started. "
+title: "Greece was supposed to return migrants but barely started. "
 ---
 [source from <em>The Economist</em>][link]
 
