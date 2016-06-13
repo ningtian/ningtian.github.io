@@ -20,7 +20,7 @@ Remarks:
 ********************************************
 
 
-<div style="position: relative;"><div><a href="http://ningtian.github.io/blogs/2016/06/02/ning-tian-launched"position: absolute; right: 0px; top: 0px;"><a href="http://ningtian.github.io/blogs/2016/06/02/ning-tian-launched">next>></a></div></div>
+<div style="position: relative;"><div><a href="http://ningtian.github.io/blogs/2016/05/30/ning-tian-launched"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://ningtian.github.io/blogs/2016/06/02/ning-tian-launched">next>></a></div></div>
 
 
 
