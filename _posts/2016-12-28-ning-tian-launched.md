@@ -3,16 +3,21 @@ layout: post
 title: "The struggle of my first paper."
 ---
 
+Time flies. Now comes the end of 2016. It is the time to look back and to see what I did in the past year. 
+
+In 2016 I took four courses: Adapative Singla Processing, Applied Numerical Linear Algebra, Optimal Estimation, and Energy Storage System Control. I started my research and submitted one conference paper and one journal paper. In June I flied back to China with my wife and held our wedding on July 9th in my hometown, Feicheng, Shandong. I started a regular swimming exercise since September. 
+
+Due to my poor background on control, I laid my emphasis on course study and kind of ignored the research. In fact, for a Phd student, research is the most important and determinant. Although I still worked hard on my research, the work was driven by my supervisor or the deadline instead of by my personal motivation, which resulted in that I missed several conference deadlines and spent the whole year preparing the paper. I here make a list of the preparation for the paper, and it can be seen that the work is serverely delayed and I did not have clear idea about research. In the next year, I would put the research at the first place and try to motivate myself.
 
 
 
 **January 11**: Start the work of battery thermal modelling.
 
-February 25: Get a stable matrix A.
+**February 25**: Get a stable matrix A.
 
-February 9: A model for a battery cell is done.
+**February 9**: A model for a battery cell is done.
 
-March 16: A model for a battery pack consisting of three cells is developed.
+**March 16**: A model for a battery pack consisting of three cells is developed.
 
 March 23: Apply the Kalman filter on temperature distribution estimation of a battery pack.
 
