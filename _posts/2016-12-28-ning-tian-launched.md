@@ -5,9 +5,8 @@ title: "The struggle of my first paper."
 
 
 
-[source from <em>The Economist</em>][link]
 
-January 11: Start the work of battery thermal modelling. 
+`**January 11**`: Start the work of battery thermal modelling. 
 
 February 25: Get a stable matrix A.
 
