@@ -6,7 +6,7 @@ title: "The struggle of my first paper."
 
 
 
-|`**January11**`|: Start the work of battery thermal modelling. |`**粗体1**`|**粗体1**
+|`**January 11**`|**January 11**: Start the work of battery thermal modelling.
 
 February 25: Get a stable matrix A.
 
