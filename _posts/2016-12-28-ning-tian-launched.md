@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "The struggle of my first paper."
