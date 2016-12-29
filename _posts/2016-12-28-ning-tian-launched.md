@@ -5,53 +5,51 @@ title: "The struggle of my first paper."
 
 Time flies. Now comes the end of 2016. It is the time to look back and to see what I did in the past year. 
 
-In 2016 I took four courses: Adapative Singla Processing, Applied Numerical Linear Algebra, Optimal Estimation, and Energy Storage System Control. I started my research and submitted one conference paper and one journal paper. In June I flied back to China with my wife and held our wedding on July 9th in my hometown, Feicheng, Shandong. I started a regular swimming exercise since September. 
+In 2016 I took four courses: Adaptive Signal Processing, Applied Numerical Linear Algebra, Optimal Estimation, and Energy Storage System Control. Besides, I stepped into a second phase of PhD training, i.e., research study, and I submitted one conference paper and one journal paper at the end of this year. In June I flied back to China with my wife and held our wedding ceremony on July 9th in my hometown. After I returned back to America, I started a regular plan of jogging and swimming, almost three times per week. 
 
-Due to my poor background on control, I laid my emphasis on course study and kind of ignored the research. In fact, for a Phd student, research is the most important and determinant. Although I still worked hard on my research, the work was driven by my supervisor or the deadline instead of by my personal motivation, which resulted in that I missed several conference deadlines and spent the whole year preparing the paper. I here make a list of the preparation for the paper, and it can be seen that the work is serverely delayed and I did not have clear idea about research. In the next year, I would put the research at the first place and try to motivate myself.
+Although required to start doing research, I was not well prepared especially mentally. Every time when encountered with difficulties in research, I simply quit, turn to other easier stuff, and thus missed a few conference deadlines. I did not finish the paper until the end of this year. What a nightmare! Despite struggling with research, it is necessary and beneficial to review the whole preparation process of my first research paper.
 
+**January 11**: Started the work of battery thermal modelling.
 
+**February 25**: Got a stable matrix A.
 
-**January 11**: Start the work of battery thermal modelling.
+**February 9**: A model for a battery cell was done.
 
-**February 25**: Get a stable matrix A.
+**March 16**: A model for a battery pack consisting of three cells was developed.
 
-**February 9**: A model for a battery cell is done.
+**March 23**: Applied the Kalman filter on temperature distribution estimation of a battery pack.
 
-**March 16**: A model for a battery pack consisting of three cells is developed.
+**May 27**: Started trying to apply the DKF on battery pack and the corresponding stability proof.
 
-**March 23**: Apply the Kalman filter on temperature distribution estimation of a battery pack.
+**June 6**: Fixed the problem that matrix A became unstable when grids were finer.
 
-**May 27**: Start trying to apply the DKF on battery pack and the corresponding stability proof.
+**June 10**: The DKF codes of the battery pack were developed and a draft of the battery model was done.
 
-**June 6**: Fix the problem that matrix A becomes unstable when grids become finer.
+**June 17**: Started writing the Introduction.
 
-**June 10**: The DKF codes of the battery pack are developed and a draft of the battery model is done.
-
-**June 17**: Start writing the Introduction.
-
-**June 18**: Apply a modified heat generation term related with currents, though constant still.
+**June 18**: Applied a modified heat generation term related with currents, though constant still.
 
 **June 19 – July 18**: Back to China.
 
-**July 29**: Start writing the Methodology.
+**July 29**: Started writing the Methodology.
 
-**August 12**: The battery pack model part in the Methodology is done.
+**August 12**: The battery pack model part in the Methodology was done.
 
-**August 13**: The heat generation term is modified to be time varying instead of being constant, and simulation results are greatly improved.
+**August 13**: The heat generation term was modified to be time varying instead of being constant, and simulation results were greatly improved.
 
-**August 15**: The decomposition strategy of the battery pack is changed to the one based on the battery number.
+**August 15**: The decomposition strategy of the battery pack was changed to the one based on the battery number.
 
-**August 19**: The Methodology is almost done.
+**August 19**: The Methodology was almost done.
 
-**August 26**: Start writing the Result.
+**August 26**: Started writing the Result.
 
-**September 9**: A paper draft except Abstract and Conclusion is almost done and start the work of stability proof.
+**September 9**: A paper draft except the Abstract and Conclusion was almost done and started the work of stability proof.
 
-**September 19**: Submit a conference paper, although the stability proof is unfinished.
+**September 19**: Submitted a conference paper, although the stability proof was unfinished.
 
-**October 14**: Journal paper is almost done and ready to submit.
+**October 14**: Journal paper was almost done and ready to submit.
 
-**November 12**: Paper is finally done and submitted.
+**November 12**: Paper was finally done and submitted.
 
-
+In 2017 I would place research in the first place, to be more motivated and to earn more achievements.
 
