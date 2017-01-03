@@ -8,12 +8,13 @@ https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/zh_CN/en_GB
 English
 https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/en_GB/zh_CN
 
+```
 A model minority
 
 How do Indians make success in America?
 
 In the start of 20 century, only hundreds of Indians immigrated to America every year, and there were only around 5,000 Indian-American in America. But it was a big number to the people who hated foreigners. One government committee drawn a conclusion in 1910 that Indians were the most unwelcome Asians, and citizens in the west coast agreed and hoped to expel them.
-
+```
 A model minority
 
 How Indians triumphed in America?
