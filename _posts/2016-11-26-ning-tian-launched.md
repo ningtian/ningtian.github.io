@@ -3,12 +3,7 @@ layout: post
 title: "Practice 01"
 ---
 
-Chinese  
-http://article.yeeyan.com/view/588955/504399  
-English  
-https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/23/why-are-working-class-kids-less-likely-to-get-elite-jobs-they-study-too-hard-at-college/  
 
-*****************************************************************************
 
 为什么工薪阶层孩子在学校都很用功学习 却很少获得顶尖工作
 
@@ -41,3 +36,13 @@ No matter on purpose or not, the elites can help their children enjoy different 
 ```
 Whether intentionally or not, elite parents expose their children to different experiences and styles of interacting that are useful for getting ahead in society. Many of these are taken for granted in upper and upper-middle class circles, such as how to prepare a college application (and having cultivated the right accomplishments to impress officers), how to network in a business setting in a way that seems natural, and how to develop rapport with teachers, interviewers, and other gatekeepers to get things you want from those in power. Basically, if we think of economic inequality as a sporting competition, elite parents give their kids a leg up, not only by being able to afford the equipment necessary to play but also by teaching them rules of the game and giving them insider tips on how to win.
 ```
+
+*****************************************************************************
+
+Source link: [Chinese][link1] [English][link2]  
+
+[link1]: http://article.yeeyan.com/view/588955/504399  
+[link2]: https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/23/why-are-working-class-kids-less-likely-to-get-elite-jobs-they-study-too-hard-at-college/
+
+
+
