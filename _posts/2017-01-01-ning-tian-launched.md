@@ -1,12 +1,8 @@
-2017-01-01-ning-tian-launched.md
+
 ---
 layout: post
 title: "The dividing of America."
 ---
-
-[source from <em>The Economist</em>][link]
-
-
 
 Chinese
 https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/zh_CN/en_GB
@@ -14,11 +10,15 @@ English
 https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/en_GB/zh_CN
 
 A model minority
+
 How do Indians make success in America?
+
 In the start of 20 century, only hundreds of Indians immigrated to America every year, and there were only around 5,000 Indian-American in America. But it was a big number to the people who hated foreigners. One government committee drawn a conclusion in 1910 that Indians were the most unwelcome Asians, and citizens in the west coast agreed and hoped to expel them.
 
 A model minority
+
 How Indians triumphed in America?
+
 In the early 20th century just a few hundred people emigrated from India to America each year and there were only about 5,000 folk of Indian heritage living in the United States. That was more than enough for some xenophobes. One government commission in 1910 concluded that Indians were the most undesirable of all Asiatics and that citizens of America’s west coast were unanimous in their desire for exclusion.
 
 Today there are 200 million Indians born in America, and they may be the most successful minorities in the United States. Compared with all the other main peoples born in foreign countries, they are younger, wealthier, have higher married rates and well educated. In the west coast, they are a flow of powerful strength. Surrounding New York, there are also many wealthy Indians residents. The Other One Percent is the first large research on the reason behind such transmission. It is fulfilled with detailed analysis and shows great authorities in this severely overlooked topic. 
@@ -33,14 +33,4 @@ Like all immigrant groups, Indians have found niches in America’s vast economy
 But the author did touch a most reflecting question: how these glowing immigrants influence India itself. The diplomatic relationship between democratic America and India have been quite tense in a long time. But connections in other fields have become more and more intimate. Those Indian elites with high social status in America can gain popular pursuits in India just like these totally un-American figures like bracket ball masters and Baollywood beauties. Indian political elites’ children got educated in America, who probably helped propel the economy’s opening in 1991. Billions of dollars earned by large Indian technology companies from America are important to India’s international balances. Almost all the enterprisers leading the great development of India’s electric business in the past five years were ever educated in America or worked in America’s technology companies.
 
 But the authors do touch on the most fascinating question of all: how this gilded corner of the diaspora influences India itself. Diplomatic relations between the two giant democracies have long been testy. But in other realms the bond has grown closer. The stars at the pinnacle of American society are celebrated back in India alongside rather un-American figures such as spin-bowling masters and Bollywood maidens. The American-educated children of India’s governing elite probably helped push India to open up its economy in 1991. The tens of billions of dollars of income earned in America by India’s big technology firms is crucial for its balance of payments. And a new generation of entrepreneurs who have led a boom in e-commerce in India are almost all American educated, or have worked for American technology firms.
-
-
-
-********************************************
-
-
-<div style="position: relative;"><div><a href="http://ningtian.github.io/blogs/2016/05/30/ning-tian-launched"><<previous</a></div><div style="position: absolute; right: 0px; top: 0px;"><a href="http://ningtian.github.io/blogs/2016/06/02/ning-tian-launched">next>></a></div></div>
-
-
-[link]: http://www.economist.com/news/leaders/21702188-donald-trumps-nomination-cleveland-will-put-thriving-country-risk-great
 
