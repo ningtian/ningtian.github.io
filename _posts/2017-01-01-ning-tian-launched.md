@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practice 3"
+title: "Practice 04"
 ---
 
 Chinese
@@ -8,7 +8,10 @@ https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/zh_CN/en_GB
 English
 https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/en_GB/zh_CN
 
-______________________________________________________________________________
+*****************************************************************************
+模范少数族裔  
+印度人如何在美国获得成功  
+20世纪初，每年只有几百人从印度移民美国，生活在美国的印度裔仅有5000人左右。但这个数字对一些仇外人士来说已经不少了。一个政府委员会在1910年得出结论：印度人是“最不受欢迎的亚洲人”，且美国西海岸的公民“一致希望驱逐他们”。
 
 A model minority  
 How do Indians make success in America?  
