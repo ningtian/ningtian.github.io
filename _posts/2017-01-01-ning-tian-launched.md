@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "The dividing of America."
+title: "Practice 3"
 ---
 
 Chinese
