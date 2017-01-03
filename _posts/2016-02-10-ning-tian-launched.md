@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excerpt Practice 05"
+title: "Excerpt Practice 06"
 ---
 
 U.S. Supreme Court Blocks Obama's Clean Power Plan
