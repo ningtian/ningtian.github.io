@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excerpt Practice 01"
+title: "Excerpt Practice 28"
 ---
 
 Business are embracing the idea of working in teams
