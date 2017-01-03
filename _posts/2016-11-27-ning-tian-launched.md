@@ -3,12 +3,7 @@ layout: post
 title: "Practice 02"
 ---
 
-Chinese
-https://gbr.economist.com/articles/view/581c4d34ffe2d61247ad48ad/zh_CN/en_GB  
-English  
-https://gbr.economist.com/articles/view/581c4d34ffe2d61247ad48ad/en_GB/zh_CN  
 
-*****************************************************************************
 
 最大的缓和  
 10月19日，中国公布第三季度经济增速为6.7%。这原本会是一个意料之中、令人欣慰的标题，只是中国上个季度以及再上个季度都公布了完全相同的增长率数字。这种异乎寻常的一致遭到了中国许多“数据怀疑论者”的鄙视。这些人一直认为中国在数字上弄虚作假。中国已经有很多次连续两个季度增速相同了。但此前它还从未连续三个季度公都布完全相同的增速。  
@@ -45,3 +40,12 @@ China’s policy makers may have been successful in maintaining steady growth in
 ```
 Either China’s policy makers are newly successful at stabilizing growth or statisticians are newly determined to smooth the data. But if the number-crunchers are to blame, one wonders why they do not try harder to hide it.
 ```
+
+*****************************************************************************
+
+Source link: [Chinese][link1] [English][link2]  
+
+[link1]: https://gbr.economist.com/articles/view/581c4d34ffe2d61247ad48ad/zh_CN/en_GB  
+[link2]: https://gbr.economist.com/articles/view/581c4d34ffe2d61247ad48ad/en_GB/zh_CN  
+
+
