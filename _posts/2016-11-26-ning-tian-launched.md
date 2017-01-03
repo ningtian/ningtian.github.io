@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Practice 01"
+title: "Translation Practice 01"
 ---
 
 
