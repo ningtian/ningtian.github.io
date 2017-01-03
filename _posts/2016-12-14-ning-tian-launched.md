@@ -3,12 +3,7 @@ layout: post
 title: "Practice 03"
 ---
 
-Chinese  
-https://gbr.economist.com/articles/view/584fb2b6ffe2d63709cc65e1/zh_CN/en_GB  
-English   
-https://gbr.economist.com/articles/view/584fb2b6ffe2d63709cc65e1/en_GB/zh_CN    
 
-*****************************************************************************
 
 美联储全速前进  
 美联储在2016年一直推迟加息，现在有可能会加快加息的步伐  
@@ -55,3 +50,12 @@ The Eagles believed that participation had reached its limits so that no room ca
 ```
 Hawks argue that participation has reached its limit, so little slack remains in the labor market. Other thermometers are popping. It now takes 28 days to fill a vacancy, up from 23 days in 2006, notes Torsten Slok of Deutsche Bank. Company small and large list hiring difficulties among their top concerns. For all the fanfare over Mr Trump’s agenda to protect jobs from outsourcing, fewer workers were laid off or fired in September than in any month since data started being collected in 2000.
 ```
+
+*****************************************************************************
+
+Source link: [Chinese][link1] [English][link2]  
+
+[link1]: https://gbr.economist.com/articles/view/584fb2b6ffe2d63709cc65e1/zh_CN/en_GB
+[link2]: https://gbr.economist.com/articles/view/584fb2b6ffe2d63709cc65e1/en_GB/zh_CN    
+ 
+
