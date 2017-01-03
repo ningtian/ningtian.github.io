@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excerpt Practice 01"
+title: "Excerpt Practice 05"
 ---
 
 Only China can stop North Korea from becoming a full nuclear power
