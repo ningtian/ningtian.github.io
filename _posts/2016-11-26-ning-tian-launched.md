@@ -3,10 +3,11 @@ layout: post
 title: "Practice 01"
 ---
 
-Chinese
-http://article.yeeyan.com/view/588955/504399
-English
-https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/23/why-are-working-class-kids-less-likely-to-get-elite-jobs-they-study-too-hard-at-college/
+Chinese  
+http://article.yeeyan.com/view/588955/504399  
+English  
+https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/23/why-are-working-class-kids-less-likely-to-get-elite-jobs-they-study-too-hard-at-college/  
+
 *****************************************************************************
 
 为什么工薪阶层孩子在学校都很用功学习 却很少获得顶尖工作
