@@ -3,12 +3,6 @@ layout: post
 title: "Practice 04"
 ---
 
-Chinese
-https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/zh_CN/en_GB
-English
-https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/en_GB/zh_CN
-
-*****************************************************************************
 模范少数族裔  
 印度人如何在美国获得成功  
 20世纪初，每年只有几百人从印度移民美国，生活在美国的印度裔仅有5000人左右。但这个数字对一些仇外人士来说已经不少了。一个政府委员会在1910年得出结论：印度人是“最不受欢迎的亚洲人”，且美国西海岸的公民“一致希望驱逐他们”。
@@ -46,3 +40,11 @@ But the author did touch a most reflecting question: how these glowing immigrant
 ```
 But the authors do touch on the most fascinating question of all: how this gilded corner of the diaspora influences India itself. Diplomatic relations between the two giant democracies have long been testy. But in other realms the bond has grown closer. The stars at the pinnacle of American society are celebrated back in India alongside rather un-American figures such as spin-bowling masters and Bollywood maidens. The American-educated children of India’s governing elite probably helped push India to open up its economy in 1991. The tens of billions of dollars of income earned in America by India’s big technology firms is crucial for its balance of payments. And a new generation of entrepreneurs who have led a boom in e-commerce in India are almost all American educated, or have worked for American technology firms.
 ```
+
+*****************************************************************************
+
+Source link: [Chinese][link1] [English][link2]  
+
+[link1]: https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/zh_CN/en_GB
+[link2]: https://gbr.economist.com/articles/view/585367e9ffe2d65107fc97e5/en_GB/zh_CN
+
