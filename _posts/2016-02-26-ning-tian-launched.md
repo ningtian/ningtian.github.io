@@ -11,7 +11,6 @@ The worry is that some of what the region enjoyed in the past may now be beyond 
 
 Eventually, all rivers empty into oceans; water comes together with other waters. But for this river, at this delta, the sense of an eternal return is lessened, that of an end heightened. The seas, driven by a century of global industry, rise higher, while for the sake of a little more industrial power, the gifts of the river are being squandered. Life as it has been is not life as it will be. The days of stepping into the river are numbered.
 
-                                                                                                                                    E.N.D
 
 *************************************************************************************
 
