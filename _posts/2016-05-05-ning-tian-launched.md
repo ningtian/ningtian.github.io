@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excerpt Practice 57"
+title: "Excerpt Practice 47"
 ---
 
 Trump's triumph
