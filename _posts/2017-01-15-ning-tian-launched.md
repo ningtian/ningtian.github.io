@@ -22,3 +22,9 @@ When the education cannot catch up with the technology advances, it will produce
 When education fails to keep pace with technology, the result is inequality. Without the skills to stay useful as innovations arrive, workers suffer-and if enough of them fall behind, society starts to fall apart. That fundamental insight seized reformers in the Industrial Revolution, heralding state-funded universal schooling. Later, automation in factories and offices called forth a surge in college graduates. The combination of education and innovation, spread over decades, led to a remarkable flowering of prosperity. 
 ```
 
+*****************************************************************************
+
+Source link: [Chinese][link1] [English][link2]  
+
+[link1]: https://gbr.economist.com/articles/view/5878aaadffe2d6434a24290c/zh_CN/en_GB
+[link2]: https://gbr.economist.com/articles/view/5878aaadffe2d6434a24290c/en_GB/zh_CN
