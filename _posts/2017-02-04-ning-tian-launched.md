@@ -44,5 +44,5 @@ On that busy morning of October 10th, when pressed by the third journalist of th
 
 Source link: [Chinese][link1] [English][link2]  
 
-[link1]: https://gbr.economist.com/articles/view/58536cc9ffe2d68c0dfc97e5/zh_CN/en_GB
-[link2]: https://gbr.economist.com/articles/view/58536cc9ffe2d68c0dfc97e5/en_GB/zh_CN
+[link1]: https://gbr.economist.com/articles/view/5886f0efffe2d6434985893a/zh_CN/en_GB
+[link2]: https://gbr.economist.com/articles/view/5886f0efffe2d6434985893a/en_GB/zh_CN
