@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自动控制理论的早期发展史"
+title: "自动控制理论的早期发展史(作者：王庆林)"
 ---
 
 在1868年至今的短短一百年中，自动控制理论无论在深度和广度上都得到了令人吃惊的发展，对人类社会产生了巨大的影响。从瓦特的蒸气机、阿波罗登月到海弯战争，无处不现示着控制技术的威力。在哲学领域，反馈理论的建立与成功应用，也使“因果关系”进一步发展为“因果－果因关系”，反馈的概念受到人们的重视。
@@ -214,7 +214,7 @@ IEEE Control System Vol.13(4):82-85
 
 *****************************************************************************
 
-Source link: [Chinese][link1] [English][link2]  
+[原文出处][link1]
 
-[link1]: https://gbr.economist.com/articles/view/5886f0efffe2d6434985893a/zh_CN/en_GB
-[link2]: https://gbr.economist.com/articles/view/5886f0efffe2d6434985893a/en_GB/zh_CN
+[link1]: http://qiusuoge.com/529.html
+
