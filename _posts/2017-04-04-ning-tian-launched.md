@@ -53,7 +53,7 @@ Maxwell在他的论文中还催促数学家们尽快地解决多项式的系数�
 
 Edward John Routh 1831年1月20日出生在加拿大的魁北克。他父亲是一位在Waterloo服役的英国军官。Routh 11岁那年回到英国，在de Morgan指导下学习数学。在剑桥学习的毕业考试中，他获得第一名。并得到了“Senior Wrangler”的荣誉称号。（Clerk Maxwell排在了第二位。尽管Clerk Maxwell当时被称为最聪明的人。）毕业后Routh开始从事私人数学教师的工作。从1855年到1888年Routh教了600多名学生，其中有27位获得“SEnior Wrangler”称号。建立了无可匹敌的业绩。Routh于1907年6月7日去世，享年76岁。[25]
 
-Routh之后大约二十年，1895年，瑞士数学家A. Hurwitz在不了解Routh工作的情况下，独立给出了根据多项式的系数决定多项式的根是否都具有负实部的另一中方法(Hurwitz A. On the conditions under which an equation has only roots with negative real parts. Mathematische Annelen,vol.46:273-284,1895)。Hurwitz的条件同Routh的条件在本质上是一致的。[9]因此这一稳定性判据现在也被称为Routh-Hurwitz稳定性判据[1]。
+Routh之后大约二十年，1895年，瑞士数学家A. Hurwitz在不了解Routh工作的情况下，独立给出了根据多项式的系数决定多项式的根是否都具有负实部的另一种方法(Hurwitz A. On the conditions under which an equation has only roots with negative real parts. Mathematische Annelen,vol.46:273-284,1895)。Hurwitz的条件同Routh的条件在本质上是一致的。[9]因此这一稳定性判据现在也被称为Routh-Hurwitz稳定性判据[1]。
 
 1892年，俄罗斯伟大的数学力学家A.M.Lyapunov（1857.5.25-1918.11.3）发表了其具有深远历史意义的博士论文“运动稳定性的一般问题”(The General Problem of the Stability of Motion,1892)。在这一论文中，他提出了为当今学术界广为应用且影响巨大的李亚普诺夫方法，也即李亚普诺夫第二方法或李亚普诺夫直接方法。这一方法不仅可用于线性系统而且可用于非线性时变系统的分析与设计。已成为当今自动控制理论课程讲授的主要内容之一。[11][12]
 
