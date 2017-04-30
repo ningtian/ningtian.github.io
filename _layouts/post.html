@@ -7,9 +7,9 @@ blogs: active
 		<div class="blog single">
 			<h4 class="title">{{ page.title }}</h4>
 			
-			<h4 class="date"><info datetime="{{ page.date }}">
+			<h5 class="date"><info datetime="{{ page.date }}">
 				{{ page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
-			</info></h4>
+			</info></h5>
 			<!-- Post content -->
 			<div class="blogbody">
 				{{ content }}
