@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Struggle of My First Paper"
+title: "My First Conference Paper"
 ---
 
 Time flies. Now comes the end of 2016. It is the time to look back and to see what I did in the past year. 
