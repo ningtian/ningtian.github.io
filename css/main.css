@@ -12,7 +12,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 
 
@@ -32,7 +32,7 @@ a:hover {
 
 
 h1 {
-    font-size: 3em;
+    font-size: 6em;
     font-family: 'Arial';
 }
 
@@ -43,7 +43,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.2em;
-    color: #333fff;
+    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
